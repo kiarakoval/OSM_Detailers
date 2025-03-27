@@ -1,0 +1,19 @@
+OSM Building Detailers – License
+
+This tool is free to use for:
+- Personal projects
+- Educational use
+- Testing and feedback purposes
+
+You may:
+- Modify and explore the contents for learning
+- Share feedback or suggest improvements
+
+You may NOT:
+- Use this tool in commercial or client projects
+- Include it in proprietary pipelines or sell any part of it
+
+All rights remain with the original creator (Kiara Koval).
+If you're interested in commercial use, reach out directly.
+
+— Kiara
