@@ -1,6 +1,6 @@
 # OSM Building Tools for Houdini
 
-A set of lightweight Houdini tools for adding details to OSM (OpenStreeMap) data.
+A set of procedural Houdini tools for adding details to OSM (OpenStreeMap) data.
 ---
 
 ## Tools Included
